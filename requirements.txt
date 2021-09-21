@@ -2,7 +2,6 @@ Amino-new.py
 websocket
 requests
 amino
-json
 base64
 random
 wikipedia
