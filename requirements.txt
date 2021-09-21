@@ -2,7 +2,6 @@ Amino-new.py
 websocket
 requests
 amino
-base64
 random
 wikipedia
 gtts
