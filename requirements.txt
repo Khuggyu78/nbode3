@@ -1,0 +1,11 @@
+Amino-new.py
+websocket
+requests
+amino
+json
+base64
+random
+wikipedia
+gtts
+pytube
+google_trans_new
