@@ -1,7 +1,7 @@
 Amino-new.py
 websocket
 requests
-amino
+
 wikipedia
 gtts
 pytube
