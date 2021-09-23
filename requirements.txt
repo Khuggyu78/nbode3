@@ -1,5 +1,5 @@
 Amino-new.py
-websocket
+websocket-client.py
 requests
 
 wikipedia
