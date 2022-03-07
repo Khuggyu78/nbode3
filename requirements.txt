@@ -1,9 +1,2 @@
-Amino-new.py
-websocket-client
-
 requests
-
-wikipedia
-gtts
-pytube
-google_trans_new
+pyTelegramBotAPI
