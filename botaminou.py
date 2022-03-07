@@ -4,7 +4,7 @@ import telebot
 from time import sleep
 import random
 import time
-token = "5218688832:AAFEDBG9Udpd_XSiZ470dSBQlp50L00FCjg"
+token = "5139855562:AAGcrzxQ340DrQ9a2gHzkuyZGAk6WeP16po"
 bot = telebot.TeleBot(token)
 r=requests.session() 
 co = types.InlineKeyboardButton(text ="- بوت القران",url="https://t.me/Qxurbot")
