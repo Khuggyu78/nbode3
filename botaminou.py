@@ -1,7 +1,5 @@
 import os
 os.system('pip install -U amino.fix')
-os.system('pip install requests')
-os.system('pip install telegrambotapi')
 
 
 import aminofix
