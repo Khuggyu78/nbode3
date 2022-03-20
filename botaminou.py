@@ -1,6 +1,3 @@
-import os
-os.system('pip install -U amino.fix')
-
 
 import aminofix
 import requests
@@ -33,4 +30,4 @@ def botrr(message):
 	
 	
 bot.polling(True)
-	
+print("done")	
